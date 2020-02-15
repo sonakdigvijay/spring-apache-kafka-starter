@@ -1,0 +1,8 @@
+ADD:[D:\Workbench\Repo\spring-apache-kafka-starter\target\embedded-cassandra\data\system\local-7ad54392bcdd35a684174e047860b377\mc-55-big,0,8][3926962208]
+REMOVE:[D:\Workbench\Repo\spring-apache-kafka-starter\target\embedded-cassandra\data\system\local-7ad54392bcdd35a684174e047860b377\mc-51-big,1581650953931,8][3073247516]
+REMOVE:[D:\Workbench\Repo\spring-apache-kafka-starter\target\embedded-cassandra\data\system\local-7ad54392bcdd35a684174e047860b377\mc-52-big,1581650955991,8][2565390768]
+REMOVE:[D:\Workbench\Repo\spring-apache-kafka-starter\target\embedded-cassandra\data\system\local-7ad54392bcdd35a684174e047860b377\mc-49-big,1581650953004,8][2395736187]
+REMOVE:[D:\Workbench\Repo\spring-apache-kafka-starter\target\embedded-cassandra\data\system\local-7ad54392bcdd35a684174e047860b377\mc-50-big,1581650953031,8][1242946519]
+REMOVE:[D:\Workbench\Repo\spring-apache-kafka-starter\target\embedded-cassandra\data\system\local-7ad54392bcdd35a684174e047860b377\mc-54-big,1581650956524,8][3760282782]
+REMOVE:[D:\Workbench\Repo\spring-apache-kafka-starter\target\embedded-cassandra\data\system\local-7ad54392bcdd35a684174e047860b377\mc-53-big,1581650956275,8][860132341]
+COMMIT:[,0,0][2613697770]
